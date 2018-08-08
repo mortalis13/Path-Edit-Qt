@@ -42,11 +42,9 @@ private slots:
   void loadPath();
   void savePath();
 
-    
 private:
   Ui::MainWindow *ui;
   QSettings* setting;
-
 
 };
 
